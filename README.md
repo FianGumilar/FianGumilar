@@ -16,7 +16,10 @@ Hi, I'm Fian Gumilar!
 
 ## 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fianlcg) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@fian_gumilar) [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fiangumilar)[![Gitlab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/FianGumilar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&height=20)](https://linkedin.com/in/fianlcg)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&height=20)](https://medium.com/@fian_gumilar)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&height=20)](https://t.me/fiangumilar)
+[![Gitlab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&height=20)](https://gitlab.com/FianGumilar)
 
 ## 💻 Tech Stack:
 
